@@ -1,10 +1,13 @@
-- 👋 Hi, I’m @Afnan-Rehman
-- 👀 I’m interested in Analysis 
-- 🌱 I’m currently learning Finance and Investment Analytics
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: "Rome was not built in a day" is my favourite quote
+**Hi there 👋**
 
-<!---
-Afnan-Rehman/Afnan-Rehman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I am a Business Analyst studying Master of Predictve Analytics major in Finance and Investment from Curtin University. During my time of working as a Business Analyst, I got a chance to work in different B2B and B2C markets of Pakistan and Dubai at Olympia chemicals, a chemical manufacturing company. Working there, I supervised a new project Olympia Detergent, implemented different ERP softwares including Ms GP and SAP, making policies and systems, and helped the company out with huge growth and expansion in a time frame of 3 years. Working there I also got a chance to explore different financial markets around the world, doing regular Technical Analysis while keeping eye on the Fundamental Analysis, took informed decisions for the stakeholders and booked enormous gains for the principals.
+
+Doing Masters at curtin gave me an opportunity to explore various machine learning models using python, R Notebook and jupyter Notebook.  The degree also introduced me to field of coding on python and R Notebook, implementing classes and objects using Data structures and Algorithms, implementing machine learning models to Financial Markets while doing technical and Fundamental analysis of financial markets in Financial Trading Strategies, econometerics and mathematical modeling in Business. 
+
+💬 Ask me about Python, Financial Markets, Finanical Analysis, Business Opertations Modeling/Operations Management, or Data Mining.
+
+🎓 I tutor Fundamentals to Programming in Python at Curtin University
+
+🔭 I volunteer at Mentoring the Autistic Childern from the age of 10 to 15 teaching them coding on python at AAQF DojoCoder.
+
+📫 How to reach me: afnanrehman404@gmail.com
