@@ -11,4 +11,4 @@ Doing Masters at Curtin University gave me an opportunity to explore various mac
 🔭  I'm currently working on making the world a better place. Small steps are important. I volunteer at Mentoring the Autistic Childern from the age of 10 to 15 teaching them coding on     
     python at AAQF DojoCoder.
 
-📫 How to reach me: afnanrehman404@gmail.com
+📫 How to reach me: afnan.rehm@gmail.com
